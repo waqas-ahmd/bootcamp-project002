@@ -33,7 +33,7 @@ jobs:
       with:
         cmd: install
     
-    # Build React App with Yarn
+    # Build react App with Yarn
     - name : Build React App
       run : yarn build
     
